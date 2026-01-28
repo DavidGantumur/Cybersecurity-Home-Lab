@@ -31,3 +31,12 @@ This repository contains my personal home lab setup using Kali Linux in VirtualB
 ### Internet Test / Final Verification
 ![Screenshot 9 - Internet Test](ScreenshotsVM/screenshot9.png)
 
+## Skills Gained
+- Virtualization & VM configuration
+- Networking fundamentals
+- Traffic analysis basics
+- Cybersecurity documentation
+
+## Disclaimer
+All testing was done in controlled, isolated VMs.
+
